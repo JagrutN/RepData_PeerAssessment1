@@ -1,8 +1,10 @@
 ---
-title: "Reproducible Research: Analysis of daily activity"
+title: 'Reproducible Research: Analysis of daily activity'
 author: "Jagrut"
 date: "07/08/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ### Synopsis
