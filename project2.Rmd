@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Analysis of daily activity"
-author: "Jagrut Nemade"
+author: "Jagrut"
 date: "07/08/2020"
 output: html_document
 ---
